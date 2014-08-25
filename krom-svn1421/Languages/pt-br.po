@@ -9,9 +9,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-10-24 22:10+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2014-08-24:MI+ZONE\n"
+"Last-Translator: FULL NAME <lucasmacho22@gmail.com>\n"
+"Language-Team: Português Brasileiro <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=CHARSET\n"
@@ -23,16 +23,16 @@ msgstr ""
 
 #: Classes/Network/ClientConnectDaemon.cpp:89
 msgid "Connecting to server "
-msgstr ""
+msgstr "Conectando ao servidor"
 
 #: Classes/Network/ClientConnectDaemon.cpp:103
 msgid "Link to Server Established"
-msgstr ""
+msgstr "Caminho com o Server Estabilizado"
 
 #: Classes/Network/ClientConnectDaemon.cpp:104
 #, c-format
 msgid "Protocol Version: %u"
-msgstr ""
+msgstr "Versão do Protocolo"
 
 #: Classes/Network/ClientConnectDaemon.cpp:111
 #: Classes/Network/ClientConnectDaemon.cpp:122
@@ -41,15 +41,15 @@ msgstr ""
 #: Classes/Network/ClientConnectDaemon.cpp:145
 #: Classes/Network/ClientConnectDaemon.cpp:152
 msgid "Link to Server FAILED!"
-msgstr ""
+msgstr "Caminho para o Servidor Falhou!"
 
 #: Classes/Network/ClientConnectDaemon.cpp:112
 msgid "Incompatible game:"
-msgstr ""
+msgstr "Jogo Incompatível"
 
 #: Classes/Network/ClientConnectDaemon.cpp:123
 msgid "Server is VERY busy"
-msgstr ""
+msgstr "Servidor está MUITO ocupado"
 
 #: Classes/Network/ClientConnectDaemon.cpp:124
 msgid "Please try in a few minutes"
