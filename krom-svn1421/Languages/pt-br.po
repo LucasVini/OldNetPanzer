@@ -10,7 +10,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-10-24 22:10+0200\n"
 "PO-Revision-Date: 2014-08-24:MI+ZONE\n"
-"Last-Translator: FULL NAME <lucasmacho22@gmail.com>\n"
+"Last-Translator: Lucas Vinicius <lucasmacho22@gmail.com>\n"
 "Language-Team: Português Brasileiro <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
@@ -19,7 +19,7 @@ msgstr ""
 
 #: Actions/DisconnectAction.hpp:43 Actions/DisconnectAction.hpp:47
 msgid "Loading Main View..."
-msgstr ""
+msgstr "Carregando Visão Principal"
 
 #: Classes/Network/ClientConnectDaemon.cpp:89
 msgid "Connecting to server "
@@ -57,7 +57,7 @@ msgstr ""
 
 #: Classes/Network/ClientConnectDaemon.cpp:131
 msgid "Your IP is already connected to this server"
-msgstr ""
+msgstr "Seu IP já está conectado com esse servidor"
 
 #: Classes/Network/ClientConnectDaemon.cpp:132
 msgid "The server limits multiple connections from same IP"
@@ -65,11 +65,11 @@ msgstr ""
 
 #: Classes/Network/ClientConnectDaemon.cpp:139
 msgid "The password for server was wrong."
-msgstr ""
+msgstr "A senha para o servidor é errada"
 
 #: Classes/Network/ClientConnectDaemon.cpp:146
 msgid "You are banned in this server"
-msgstr ""
+msgstr "Você está banido nesse servidor"
 
 #: Classes/Network/ClientConnectDaemon.cpp:153
 msgid "Unknown result sent from server"
